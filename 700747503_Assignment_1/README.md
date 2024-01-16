@@ -14,4 +14,4 @@ Problem 2: To accept a sentence and replace each occurrence of ‘python’ with
 Problem 3: To use the if statement conditions to write a program to print the letter grade based on an input class score.
 
 
-To view video explanation, [click here]()
+To view video explanation, [click here](https://drive.google.com/file/d/1fow-t4MEhPEOaayzXXKzg_tLgzb-F1dL/view?usp=drivesdk)
