@@ -12,4 +12,4 @@ Problem 2: To find the word count in a file (input.txt) for each line and then p
 Problem 3: To read heights (inches.) of customers into a list and convert these heights to centimeters in a separate list using: 1) Nested Interactive loop 2) List comprehensions
 
 
-To view video explanation, [click here](https://drive.google.com/file/d/1fow-t4MEhPEOaayzXXKzg_tLgzb-F1dL/view?usp=drivesdk)
+To view video explanation, [click here](https://drive.google.com/file/d/1KGfNnUQWea5GDIFoRLwX12sCiA6xzQhh/view?usp=drivesdk)
