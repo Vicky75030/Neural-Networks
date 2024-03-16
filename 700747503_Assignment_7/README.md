@@ -8,4 +8,4 @@ Vivek Yadav Baira
 
 
 
-To view video explanation, [https://drive.google.com/file/d/1b14Wxn0-vTbjPLPNvlRujMtuseonKlsp/view?usp=drivesdkhttps://drive.google.com/file/d/1b14Wxn0-vTbjPLPNvlRujMtuseonKlsp/view?usp=drivesdk]
+To view video explanation, clickhere[https://drive.google.com/file/d/1b14Wxn0-vTbjPLPNvlRujMtuseonKlsp/view?usp=drivesdkhttps://drive.google.com/file/d/1b14Wxn0-vTbjPLPNvlRujMtuseonKlsp/view?usp=drivesdk]
