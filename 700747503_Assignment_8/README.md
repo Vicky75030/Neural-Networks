@@ -5,15 +5,15 @@ Vivek Yadav Baira
 
 # code descriptions
 
-Problem 1:Program 1: Types and Applications of Autoencoder
+Program 1: Types and Applications of Autoencoder
 
-Adding one more hidden layer to autoencoder.
+1.Adding one more hidden layer to autoencoder.
 
-Predicting the test data and then visualizing one of the reconstructed version of that test data. Also, visualizing the same test data before reconstruction using Matplotlib.
+2.Predicting the test data and then visualizing one of the reconstructed version of that test data. Also, visualizing the same test data before reconstruction using Matplotlib.
 
-Repeating the above code on the denoisening autoencoder.
+3.Repeating the above code on the denoisening autoencoder.
 
-Plotting loss and accuracy using the history object.
+4.Plotting loss and accuracy using the history object.
 
 
 
