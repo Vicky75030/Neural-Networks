@@ -19,5 +19,5 @@ Program 1: Types and Applications of Autoencoder
 
 
 
-To view video explanation, [click here](https://drive.google.com/file/d/12d3V_IpCeYf3Aaj3FayKrI-5gGU9tWbB/view?usp=drivesdk)
+To view video explanation, [click here]()
 
